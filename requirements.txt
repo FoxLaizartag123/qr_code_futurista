@@ -1,5 +1,5 @@
 python-telegram-bot==20.6
-pillow
-qrcode
-requests
-numpy
+pillow==10.4.0
+qrcode==7.4.2
+requests==2.32.3
+numpy==2.1.1
